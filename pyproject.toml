@@ -24,7 +24,7 @@ python = "^3.6"
 requests = "^2.0.0"
 six = "^1.0.0"
 python-dateutil = "^2.0.0"
-lxml = "^4.0.0"
+lxml = ">4.0.0"
 ifaddr = "^0.1.7"
 
 [tool.poetry.dev-dependencies]
